@@ -15,7 +15,6 @@ Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 📚 Aprendiendo: `Figma` · `Obsidian` · `Blender` · `Affinity`
-
 ---
 
 ## 📊 Mis estadísticas
