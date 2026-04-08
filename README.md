@@ -20,11 +20,11 @@ Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y a
 
 ## 📊 Mis estadísticas
 
-![Perla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow2011&show_icons=true&theme=tokyonight&hide_border=true)
+![Perla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaddow2011&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shadow2011&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shaddow2011&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow2011&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaddow2011&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -49,7 +49,7 @@ const perla = {
 
 ## 📬 Contáctame
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shadow2011-181717?style=for-the-badge&logo=github)](https://github.com/Shadow2011)
+[![GitHub](https://img.shields.io/badge/GitHub-Shaddow2011-181717?style=for-the-badge&logo=github)](https://github.com/Shadow2011)
 
 ## 🎨 Mis intereses & hobbies
 
@@ -59,4 +59,4 @@ const perla = {
 
 ## 📬 Contáctame
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shadow2011-181717?style=for-the-badge&logo=github)](https://github.com/Shadow2011)
+[![GitHub](https://img.shields.io/badge/GitHub-Shadow2011-181717?style=for-the-badge&logo=github)](https://github.com/Shaddow2011)
