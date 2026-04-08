@@ -1,4 +1,4 @@
-# # 👋 Hey, soy Perla Jazbel M. Perez!
+# 👋 Hey, soy Perla Jazbel M. Perez!
 
 ### Full Stack Developer en construcción 🚀
 
@@ -15,6 +15,7 @@ Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 📚 Aprendiendo: `Figma` · `Obsidian` · `Blender` · `Affinity`
+
 ---
 
 ## 📊 Mis estadísticas
@@ -39,6 +40,16 @@ const perla = {
 ```
 
 ---
+
+## 🎨 Mis intereses & hobbies
+
+🎌 Anime & Manga  ·  🎨 Diseño & Arte digital  ·  🎵 Música
+
+---
+
+## 📬 Contáctame
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shadow2011-181717?style=for-the-badge&logo=github)](https://github.com/Shadow2011)
 
 ## 🎨 Mis intereses & hobbies
 
