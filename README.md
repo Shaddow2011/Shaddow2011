@@ -4,7 +4,7 @@
 
 Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y aprender algo nuevo cada día. Actualmente enfocada en dominar el frontend antes de conquistar el backend 💪
 
-> ✨ *"El único modo de hacer un gran trabajo es amar lo que haces."* — Steve Jobs
+> ✨ *"El único modo de hacer un gran trabajo es amar lo que haces."*
 
 ---
 
@@ -16,15 +16,13 @@ Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y a
 
 📚 Aprendiendo: `Figma` · `Obsidian` · `Blender` · `Affinity`
 
------
+---
 
 ## 📊 Mis estadísticas
 
-![Perla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaddow2011&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadow2011&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shaddow2011&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaddow2011&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow2011&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
@@ -33,13 +31,11 @@ Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y a
 ```javascript
 const perla = {
   estado: "Estudiante Full Stack",
-  aprendiendo: ["Python", "JS", "PHP"],
+  aprendiendo: ["Python", "JavaScript", "SQL"],
   objetivo: "Mi primer proyecto completo",
-  fun_fact: "El código siempre funciona... eventualmente"
+  fun_fact: "El código siempre funciona... eventualmente 😌"
 }
-```
 
----
 
 ## 🎨 Mis intereses & hobbies
 
